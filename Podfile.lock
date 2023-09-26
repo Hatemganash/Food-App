@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.9.1)
+  - ProgressHUD (13.7.2)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.9)
+  - ProgressHUD
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ProgressHUD
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  ProgressHUD: 093d24ca970f191744017bee2649e37d0cd1c5b9
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 86f53258b4f9ad5c2ef097d5e1af68396e3064ad
+
+COCOAPODS: 1.12.1
